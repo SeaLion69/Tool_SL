@@ -99,7 +99,7 @@ end
 function SLFs__S2()
 gg.clearResults()
  gg.setRanges(gg.REGION_CODE_APP)
- gg.searchNumber("5,075,474,867,494,794,035",gg.TYPE_QWORD)
+ gg.searchNumber("29,599,275,158,873,088",gg.TYPE_QWORD)
 end
 -------------------------------------
 
